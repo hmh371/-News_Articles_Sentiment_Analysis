@@ -6,4 +6,4 @@ Get the majority ML voting sentimental result in different fields and data visua
 Authors : Solanki D., Hsu HM., Zhao O., Zhang R., Bi W., Kannan R  
     
 Main Architecture Diagram  
-![Image](https://github.com/hmh371/News_Articles_Sentiment_Analysis/blob/main/report/data_flow.png)
+![Image](https://github.com/hmh371/News_Articles_Sentiment_Analysis/blob/main/Report/news_data_flow.png)
